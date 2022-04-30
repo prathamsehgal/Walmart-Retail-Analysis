@@ -2,7 +2,6 @@
 
 
 
-## Screenshots
 
 ![App Screenshot](https://miro.medium.com/max/1000/1*tgc5PuEaW36qa-60V7_KaA.jpeg)
 
