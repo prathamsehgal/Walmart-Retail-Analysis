@@ -5,7 +5,7 @@
 
 ![App Screenshot](https://miro.medium.com/max/1000/1*tgc5PuEaW36qa-60V7_KaA.jpeg)
 
-# Python Libraries Used 
+## Python Libraries Used 
 1. Scikit Learn
 2. Pandas
 3. Numpy
